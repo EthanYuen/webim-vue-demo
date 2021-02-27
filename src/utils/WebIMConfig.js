@@ -18,7 +18,7 @@ var config = {
      * Application AppKey
      */
     //appkey:"gdpwq123#ceshi",
-    appkey: "easemob-demo#chatdemoui",
+    appkey: "1128210125046323#demo",
     /*
      * Application Host
      */
@@ -36,7 +36,7 @@ var config = {
     */
     isHttpDNS: true,
     /*
-    
+
     /*
      * isMultiLoginSessions
      * true: A visitor can sign in to multiple webpages and receive messages at all the webpages.
