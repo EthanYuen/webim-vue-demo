@@ -411,7 +411,7 @@ export default {
     },
 
     customEmoji(value) {
-      return `<img src="../../../static/faces/${value}" style="width:20px"/>`;
+      return `<img src="../static/faces/${value}" style="width:20px"/>`;
     },
 
     renderTxt(txt = "") {

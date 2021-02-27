@@ -7,12 +7,13 @@ Vue.use(Router)
 
 export default new Router({
     mode: 'history',
+     base: '/webim/',
     routes: [
-        { 
+        {
             path: '',
             redirect: '/login'
         },
-        { 
+        {
             path: '/',
             redirect: '/login'
         },
